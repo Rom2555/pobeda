@@ -118,10 +118,10 @@ def create_user():
         return jsonify({'error': 'Пользователь с таким email уже существует'}), 409
 
 
-# @app.route('/')
-# def index():
-#     """Serve the main HTML page."""
-#     return send_from_directory('.', 'index.html')
+@app.route('/')
+def index():
+    """Serve the main HTML page."""
+    return send_from_directory('.', 'index.html')
 
 
 @app.errorhandler(404)
