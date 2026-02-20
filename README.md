@@ -97,15 +97,28 @@ pobeda/
 
 ## Скриншоты
 
-![Главная страница](screenshots/1.JPG)
+### Страница списка пользователей
+![Список пользователей](screenshots/1.JPG)
 
-![Список пользователей](screenshots/2.JPG)
+---
 
-![Добавление пользователя](screenshots/3.JPG)
+### Модальное окно с деталями
+![Модальное окно](screenshots/2.JPG)
 
-![Модальное окно](screenshots/4.JPG)
+---
 
-![Ошибка при добавлении](screenshots/6.JPG)
+### Тестирование API в терминале
+![Терминал](screenshots/3.JPG)
+
+---
+
+### JSON ответ сервера (GET)
+![JSON_1](screenshots/4.JPG)
+
+---
+
+### JSON ответ сервера (POST)
+![JSON_2](screenshots/6.JPG)
 
 ---
 
