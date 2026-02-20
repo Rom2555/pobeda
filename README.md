@@ -112,12 +112,12 @@ pobeda/
 
 ---
 
-### JSON ответ сервера (GET)
+### JSON ответ сервера. Получить список пользователей(GET)
 ![JSON_1](screenshots/4.JPG)
 
 ---
 
-### JSON ответ сервера (POST)
+### JSON ответ сервера. Получить пользователя по ID(POST)
 ![JSON_2](screenshots/6.JPG)
 
 ---
