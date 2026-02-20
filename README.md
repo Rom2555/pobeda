@@ -95,6 +95,20 @@ pobeda/
 - Петр Петров (petr@example.com)
 - Анна Сидорова (anna@example.com)
 
+## Скриншоты
+
+
+
+## Скриншоты
+
+![Главная страница](screenshots/1.JPG)
+
+![Список пользователей](screenshots/2.JPG)
+
+![Добавление пользователя](screenshots/3.JPG)
+
+---
+
 ## Лицензия
 
 MIT
